@@ -1,2 +1,2 @@
-print("Hello Super30!!!")
-print("Lets start with new innovation")
+print("Hello Super30")
+print("My Python environment is ready")
